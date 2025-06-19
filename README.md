@@ -13,12 +13,16 @@
   Contributed to the development of AI-powered platforms and intelligent pipelines.  
   Worked across the stack using **React**, **FastAPI**, and **Redis** to build scalable, performant systems.
 
+  
+- 🛠️ **LATAM Coder Expert at Outlier.AI**  
+  LATAM coders is a special program for training advanced models in programming,
+ here I work correcting model answers in programming and computer science topics.
+
 ---
 
 ## 👨‍🏫 What I do
 
 - 🧩 Solve and share challenging problems in pure math and computer science.
-- 🤖 Build intelligent systems and chatbots (currently contributing to **Nubot**, a CRM with AI for WhatsApp).
 - 🧪 Conduct academic workshops and tutor university-level topics like optimization, systems, and analysis.
 - 🌐 Organize tech events and research circles through ACM to inspire the next generation of builders.
 
@@ -26,17 +30,19 @@
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, C, JavaScript, LaTeX
+- **Languages:** Python, C, JavaScript, Java
 - **Frameworks & Stacks:** React, Astro, FastAPI, Node.js, Tailwind, Ant Design
-- **Databases & Tools:** Redis, PostgreSQL, Git, Jupyter, Linux
+- **Databases & Tools:** Redis, PostgreSQL, Git, Jupyter, Linux, Jenkins
 - **Specialties:** Systems Programming, Mathematical Analysis, Educational Interfaces
 
 
 ## 🌱 Currently Learning
 
 - Functional programming and type theory
-- Advanced topics in differential geometry 
+- Software architecture
 - Scalable architectures for AI-driven chat interfaces
+- NestJS
+- Networking with Linux
 
 ---
 
